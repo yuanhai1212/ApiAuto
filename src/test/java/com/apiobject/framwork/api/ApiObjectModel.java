@@ -9,6 +9,9 @@ import java.io.File;
 import java.io.IOException;
 import java.util.HashMap;
 
+/**
+ * 读取参数
+ */
 @Data
 public class ApiObjectModel {
     private String name;
